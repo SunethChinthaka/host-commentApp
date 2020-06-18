@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseUrl = 'http://localhost:4000/'
+const baseUrl = 'http://localhost:5000/'
 
 export default {
     comment(url = baseUrl + 'comments/') {
